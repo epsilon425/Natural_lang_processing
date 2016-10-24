@@ -1,0 +1,11 @@
+Evaluate including stopwords
+                 bow-euclidean: 75.93 (205/270)
+               tfidf-euclidean: 25.19 (68/270)
+                    bow-cosine: 63.33 (171/270)
+                  tfidf-cosine: 78.15 (211/270)
+
+Evaluate excluding stopwords
+                 bow-euclidean: 70.37 (190/270)
+               tfidf-euclidean: 23.70 (64/270)
+                    bow-cosine: 52.22 (141/270)
+                  tfidf-cosine: 75.56 (204/270)
