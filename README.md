@@ -1,6 +1,6 @@
 1. K-Nearest  
 -Practices: Python string operations, K-nearest neighbor algorithm, Python Standard I/O.  
--Function: The program receives stream of files and within the files are sentences (words).  The frequency of the words are used to rank the files. Now with the ranked files sample files are compared and voted by the k nearest neighbor algorithm each sample files getting assigned to each of the original file's group.     
+-Function: The program receives stream of files and within the files are sentences (words).  The frequency of the words are used to rank the files. Now with the ranked files sample files are compared and voted by the k nearest neighbor algorithm each sample files getting assigned to each of the original file's group. Also implemented stop words so that if certain set of words appear  in large amount universally across all files, it will be deemed stop word  and ignore in the process of ranking.     
 
 2. Word-Vector  
 -Practices: Python string operations, Vector operations, Python standard I/O,  Extraction of information from word patterns.  
