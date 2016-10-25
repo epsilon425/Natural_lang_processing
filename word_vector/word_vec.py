@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import sys
 import numpy as np
-
+ 
 fout = open('Result.txt','w')
 
 def readVocab(fin):
